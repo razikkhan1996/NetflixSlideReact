@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NetflixSlideReact/static/css/main.dffefbe2.chunk.css",
+    "main.js": "/NetflixSlideReact/static/js/main.89028374.chunk.js",
+    "main.js.map": "/NetflixSlideReact/static/js/main.89028374.chunk.js.map",
+    "runtime-main.js": "/NetflixSlideReact/static/js/runtime-main.262a2459.js",
+    "runtime-main.js.map": "/NetflixSlideReact/static/js/runtime-main.262a2459.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/NetflixSlideReact/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5ffdf1ea.chunk.js": "/NetflixSlideReact/static/js/2.5ffdf1ea.chunk.js",
+    "static/js/2.5ffdf1ea.chunk.js.map": "/NetflixSlideReact/static/js/2.5ffdf1ea.chunk.js.map",
+    "index.html": "/NetflixSlideReact/index.html",
+    "precache-manifest.b1e2b9827aae5d6c19b08f46b314bca8.js": "/NetflixSlideReact/precache-manifest.b1e2b9827aae5d6c19b08f46b314bca8.js",
+    "service-worker.js": "/NetflixSlideReact/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/NetflixSlideReact/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.dffefbe2.chunk.css.map": "/NetflixSlideReact/static/css/main.dffefbe2.chunk.css.map",
+    "static/js/2.5ffdf1ea.chunk.js.LICENSE.txt": "/NetflixSlideReact/static/js/2.5ffdf1ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.262a2459.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5ffdf1ea.chunk.js",
+    "static/css/main.dffefbe2.chunk.css",
+    "static/js/main.89028374.chunk.js"
+  ]
+}
